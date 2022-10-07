@@ -1,4 +1,12 @@
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+- 👋 Hi, I’m @Manasaoruganti
+- 👀 I’m interested in cyber Secuirty
+- 🌱 I’m currently learning data structure and algorithm
+- 💞️ I’m looking to collaborate on various projects
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manasa-oruganti-37a311216/) 
 
