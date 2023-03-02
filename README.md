@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 - 👋 Hi, I’m @Manasaoruganti
-- 👀 I’m interested in cyber Secuirty
+- 👀 I’m interested in cyber Secuirty and Data Science
 - 🌱 I’m currently learning data structure and algorithm
 - 💞️ I’m looking to collaborate on various projects
 
