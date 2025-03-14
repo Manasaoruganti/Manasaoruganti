@@ -2,7 +2,7 @@
 
 🚀 **Data Enthusiast | Data Analyst | Exploring Big Data**
 
-Passionate about uncovering insights from data and driving data-driven decisions. I specialize in data analysis, visualization, predictive modeling, and I'm currently exploring Big Data technologies to scale my analytical capabilities.
+Passionate about uncovering insights from data and driving data-driven decisions. I specialize in data analysis, visualization, and predictive modeling, and I'm currently exploring Big Data technologies to scale my analytical capabilities.
 
 ---
 
