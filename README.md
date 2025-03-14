@@ -36,21 +36,8 @@ Passionate about uncovering insights from data and driving data-driven decisions
   <img src="https://img.shields.io/badge/Statistical%20Analysis-8A2BE2?style=for-the-badge&logo=chart-bar&logoColor=white"/>
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logoColor=white)  
-![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/Snowflake-%2300A1E0.svg?style=for-the-badge&logo=snowflake&logoColor=white)  
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
-![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-8A2BE2?style=for-the-badge&logo=chart-bar&logoColor=white)
+
+
 
 ---
 
