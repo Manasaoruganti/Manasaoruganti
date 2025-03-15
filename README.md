@@ -9,8 +9,8 @@ Passionate about uncovering insights from data and driving data-driven decisions
 ## 🔍 About Me
 
 🎓 **Education:** B.Tech in Computer Science, Bennett University\  
-💼 **Experience:** Data Analyst Intern | Business Analyst | Data Engineer Intern\  
-📊 **Expertise:** SQL | Python | Power BI | Tableau | Machine Learning | Big Data\  
+💼 **Experience:** Data Analyst | Business Analyst Intern | Data Engineer Intern\  
+📊 **Expertise:** SQL | Python | Power BI | Tableau | Machine Learning | Big Data|R\  
 📌 **Currently Learning: Scikit-learn | XGBoost | AWS Lambda | PySpark | Snowflake | Apache Kafka | Hive**\  
 📈 **Seeking:** Data Analyst / Data Engineer / Big Data roles
 
