@@ -63,15 +63,11 @@
 ## 📬 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin" 
-         onmouseover="this.style.transform='scale(1.1)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/Manasaoruganti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github"
-         onmouseover="this.style.transform='scale(1.1)';"
-         onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://github.com/Manasaoruganti">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:srimanasa1707@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -79,10 +75,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manasaoruganti/Manasaoruganti/main/round-profile.png" 
-       width="200" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"/>
+  <img src="https://github.com/Manasaoruganti/Manasaoruganti/blob/main/png.jpg" width="200" alt="Profile Image"/>
 </p>
->
 
 ---
 
