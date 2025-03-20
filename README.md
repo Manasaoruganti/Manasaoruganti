@@ -77,5 +77,6 @@
 <h3 align="center">📊 Data-Driven Insights in Action! 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBhMjEwYzQyNjM5YTY1MjU4OWJhNTBkZTc1Mzc1MjEzNDAzNjRmMyZjdD1z/1ykNQ5ok63RbBqyfrD/giphy.gif" width="80%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZjODg3YTUyYjZjNzFlNDdmZTFiNDc1MmI3N2E0ZjRjMzE5YjdhYiZjdD1z/13CoXDiaCcCoyk/giphy.gif" width="80%"/>
 </p>
+
