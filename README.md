@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50"/> Hey there! I'm Manasa 👋
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFmOGE1MmM2MGNjMjE0MmE5Mzg2NGRhZGI1NzEyNTNhZmEyZTJmNyZjdD1z/VbnUQpnihPSIgIXuZv/giphy.gif" width="60"/>  
+  Hey there! I'm Manasa 👋  
 </h1>
 
 <p align="center">
@@ -7,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76D57&width=600&lines=Turning+data+into+actionable+insights!;Passionate+about+Data+Analysis%2C+ML+%26+Big+Data!;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Big+Data">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76D57&width=600&lines=Turning+data+into+actionable+insights!;Exploring+Data+Analysis%2C+ML+%26+Big+Data!;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Big+Data">
 </p>
 
 ---
@@ -43,7 +44,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manasaoruganti&theme=radical&show_icons=true&count_private=true" width="47%"/>
@@ -65,8 +66,8 @@
 
 ---
 
-<h3 align="center">🚀 Let's turn data into actionable insights! 📊</h3>
+<h3 align="center">🚀 Data-Driven Insights in Action! 📊</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY3MzlkNzlhZWM3ZTI3NzdlOTkzNzlhNzUzYWIxODI5MTczYjYyMiZjdD1z/xT9IgzoKnwFNmISR8I/giphy.gif" width="80%"/>
 </p>
