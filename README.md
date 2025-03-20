@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjExYzkzZWExNzM0YTY0NzE3YjQyZWRmNzBlMzRiMDliZDliZmIyNCZjdD1z/RbDKaczqWovIugyJmW/giphy.gif" width="60"/>  
-  Hey there! I'm Manasa 👋  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U2NDQxMzJhNzg0ZTljNzc4NTc1NTI3ZjQ5M2M2NWI5NTc1ZDE5NiZjdD1z/3o7abKhOpu0NwenH3O/giphy.gif" width="100"/>
+  Hey there! I'm Manasa 👋
 </h1>
 
 <p align="center">
@@ -27,19 +27,22 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/></a>
-  <a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/></a>
-  <a href="https://xgboost.ai/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="50"/></a>
-  <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/></a>
-  <a href="https://www.snowflake.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Snowflake_Inc.svg/1200px-Snowflake_Inc.svg.png" width="50"/></a>
-  <a href="https://kafka.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_kafka.svg" width="50"/></a>
-  <a href="https://hive.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Apache_Hive_logo.svg/1920px-Apache_Hive_logo.svg.png" width="50"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/></a>
-  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/></a>
+  <table>
+    <tr>
+      <td align="center"><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></a></td>
+      <td align="center"><a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/></a></td>
+      <td align="center"><a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/></a></td>
+      <td align="center"><a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/></a></td>
+      <td align="center"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/></a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://xgboost.ai/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="50"/></a></td>
+      <td align="center"><a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/></a></td>
+      <td align="center"><a href="https://www.snowflake.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Snowflake_Inc.svg/1200px-Snowflake_Inc.svg.png" width="50"/></a></td>
+      <td align="center"><a href="https://kafka.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_kafka.svg" width="50"/></a></td>
+      <td align="center"><a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/></a></td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -71,8 +74,8 @@
 
 ---
 
-<h3 align="center">🚀 Data-Driven Insights in Action! 📊</h3>
+<h3 align="center">📊 Data-Driven Insights in Action! 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcwNjYzOWQ2MzI2MjUzYzE1NTU4OTRlYzZjMzY3N2Y4MWMwNjcxMiZjdD1z/ZFkFBVoT0AALfxg49v/giphy.gif" width="80%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQzMjgxZmYyNzNiZmNjOGNkZjRjNGQ1OTJjMDZjMjc1NjJmYzUxOCZjdD1z/3o7TKU8RvQuomFfUUU/giphy.gif" width="80%"/>
 </p>
