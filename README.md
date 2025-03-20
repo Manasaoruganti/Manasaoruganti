@@ -118,12 +118,6 @@
 
 ---
 
-## 🎵 Now Playing  
-
-[![Spotify](https://spotify-now-playing-manasaoruganti.vercel.app/api/spotify)](https://open.spotify.com/user/yourprofile)
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="200">
   <br>
