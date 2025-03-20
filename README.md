@@ -63,19 +63,26 @@
 ## 📬 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin" 
+    alt="LinkedIn" width="150" style="border-radius: 25px; transition: transform 0.3s ease-in-out;" 
+    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://github.com/Manasaoruganti">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Manasaoruganti" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github" 
+    alt="GitHub" width="150" style="border-radius: 25px; transition: transform 0.3s ease-in-out;" 
+    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
   <a href="mailto:srimanasa1707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Email" width="150" style="border-radius: 25px; transition: transform 0.3s ease-in-out;" 
+    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Manasaoruganti/Manasaoruganti/blob/main/png.jpg" width="200" alt="Profile Image"/>
+  <img src="https://github.com/Manasaoruganti/Manasaoruganti/blob/main/png.jpg" width="200" 
+  alt="Profile Image" style="border-radius: 50%; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);"/>
 </p>
 
 ---
