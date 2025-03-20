@@ -62,21 +62,39 @@
 
 ## 📬 Connect With Me  
 
+<style>
+  .connect-icon {
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+    padding: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .connect-icon:hover {
+    transform: scale(1.1) rotate(5deg);
+    box-shadow: 0px 0px 20px rgba(255, 215, 0, 0.8);
+  }
+
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+
+  .connect-icon:hover {
+    animation: pulse 0.6s infinite;
+  }
+</style>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin" 
-    alt="LinkedIn" width="150" style="border-radius: 25px; transition: transform 0.3s ease-in-out;" 
-    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img class="connect-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Manasaoruganti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github" 
-    alt="GitHub" width="150" style="border-radius: 25px; transition: transform 0.3s ease-in-out;" 
-    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img class="connect-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" alt="GitHub"/>
   </a>
   <a href="mailto:srimanasa1707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Email" width="150" style="border-radius: 25px; transition: transform 0.3s ease-in-out;" 
-    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/> 
+    <img class="connect-icon" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="80" alt="Email"/>
   </a>
 </p>
 
@@ -84,8 +102,6 @@
   <img src="https://github.com/Manasaoruganti/Manasaoruganti/blob/main/png.jpg" width="200" 
   alt="Profile Image" style="border-radius: 50%; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);"/>
 </p>
-
-
 
 ---
 
