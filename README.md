@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U2NDQxMzJhNzg0ZTljNzc4NTc1NTI3ZjQ5M2M2NWI5NTc1ZDE5NiZjdD1z/xT0xevpFeFd8cs5o7m/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U2NDQxMzJhNzg0ZTljNzc4NTc1NTI3ZjQ5M2M2NWI5NTc1ZDE5NiZjdD1z/xT0xevpFeFd8cs5o7m/giphy.gif"  width="100"/>
   Hey there! I'm Manasa 👋
 </h1>
 
