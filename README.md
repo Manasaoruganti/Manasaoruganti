@@ -1,8 +1,14 @@
-## 👋 Hey there! I'm Manasa
+<h1 align="center">
+  <img src="https://media.giphy.com/media/xUPGcgtKxm4IKXyrgA/giphy.gif" width="50"/> Hey there! I'm Manasa 👋
+</h1>
 
-🚀 **Data Enthusiast | Data Analyst | Exploring Big Data**  
+<p align="center">
+  🚀 <strong>Data Enthusiast | Data Analyst | Exploring Big Data</strong>  
+</p>
 
-Passionate about uncovering insights from data and driving data-driven decisions. I specialize in data analysis, visualization, and predictive modeling, and I'm currently exploring Big Data technologies to scale my analytical capabilities. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76D57&width=600&lines=Passionate+about+data-driven+decisions!;Exploring+Big+Data%2C+ML+%26+Analytics!;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Big+Data">
+</p>
 
 ---
 
@@ -40,17 +46,26 @@ Passionate about uncovering insights from data and driving data-driven decisions
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=manasaoruganti&theme=radical&show_icons=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=manasaoruganti&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasaoruganti&theme=radical&layout=compact)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manasaoruganti&theme=radical&show_icons=true&count_private=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasaoruganti&theme=radical&hide_border=false" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasaoruganti&theme=radical&layout=compact" width="47%"/>
+</p>
 
 ---
 
 ## 📬 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manasa-oruganti-37a311216/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github)](https://github.com/Manasaoruganti)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/Manasaoruganti"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github"/></a>
+</p>
 
 ---
 
-### 🚀 Let's turn data into actionable insights with Big Data!  
+<h3 align="center">🚀 Let's turn data into actionable insights with Big Data! 📊</h3>
+
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="100%"/>
