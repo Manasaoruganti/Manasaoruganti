@@ -76,7 +76,7 @@
   <a href="mailto:srimanasa1707@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" 
     alt="Email" width="150" style="border-radius: 25px; transition: transform 0.3s ease-in-out;" 
-    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/> 
   </a>
 </p>
 
