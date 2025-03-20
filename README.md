@@ -89,5 +89,5 @@
 <h3 align="center">📊 Data-Driven Insights in Action! 🚀</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manasaoruganti/Manasaoruganti/main/github%20image.webp" width="40%"/>
+  <img src="https://raw.githubusercontent.com/Manasaoruganti/Manasaoruganti/main/github%20image.webp" width="30%"/>
 </p>
