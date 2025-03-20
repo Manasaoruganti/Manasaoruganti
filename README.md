@@ -1,10 +1,11 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U2NDQxMzJhNzg0ZTljNzc4NTc1NTI3ZjQ5M2M2NWI5NTc1ZDE5NiZjdD1z/xT0xevpFeFd8cs5o7m/giphy.gif"  width="100"/>
-  Hey there! I'm Manasa 👋
+  Hey there! I'm Manasa 👋 <span>:manasa:</span>
 </h1>
 
 <p align="center">
   🚀 <strong>Data Enthusiast | Data Analyst | Exploring Big Data</strong>  
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </p>
 
 <p align="center">
@@ -19,30 +20,36 @@
 💼 **Experience:** Data Analyst | Business Analyst Intern | Data Engineer Intern  
 📊 **Expertise:** SQL | Python | Power BI | Tableau | Machine Learning | Big Data | R  
 📌 **Currently Learning:**  
-🔹 [Scikit-learn](https://scikit-learn.org/) | 🔹 [XGBoost](https://xgboost.aiA/) | 🔹 [AWS Lambda](https://aws.amazon.com/lambda/) | 🔹 [PySpark](https://spark.apache.org/docs/latest/api/python/) | 🔹 [Snowflake](https://www.snowflake.com/) | 🔹 [Apache Kafka](https://kafka.apache.org/) | 🔹 [Apache Hive](https://hive.apache.org/)  
+🔹 [Scikit-learn](https://scikit-learn.org/) | 🔹 [XGBoost](https://xgboost.ai/) | 🔹 [AWS Lambda](https://aws.amazon.com/lambda/)  
+🔹 [PySpark](https://spark.apache.org/docs/latest/api/python/) | 🔹 [Snowflake](https://www.snowflake.com/) | 🔹 [Apache Kafka](https://kafka.apache.org/)  
 📈 **Seeking:** Data Analyst / Business Analyst / Big Data roles/ Product Analyst  
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250">
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center"><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/></a></td>
-      <td align="center"><a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/></a></td>
-      <td align="center"><a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/></a></td>
-      <td align="center"><a href="https://www.tableau.com/"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/></a></td>
-      <td align="center"><a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://xgboost.ai/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" width="50"/></a></td>
-      <td align="center"><a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/></a></td>
-      <td align="center"><a href="https://www.snowflake.com/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Snowflake_Inc.svg/1200px-Snowflake_Inc.svg.png" width="50"/></a></td>
-      <td align="center"><a href="https://kafka.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_kafka.svg" width="50"/></a></td>
-      <td align="center"><a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/></a></td>
-    </tr>
-  </table>
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
+  </a>
+
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  </a>
+
+  <!-- Spark -->
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -56,38 +63,71 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasaoruganti&theme=radical&layout=compact" width="47%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=manasaoruganti&theme=radical&column=4&margin-w=15&no-frame=true" width="47%">
 </p>
 
 ---
+
+## 🌟 Fun Facts  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200">
+  <br>
+  🚀 I once analyzed 1M+ rows of data just to optimize pizza delivery times! 🍕<br>
+  📚 I read 3+ data science books every month 📖<br>
+  🎮 Built a ML model to predict game outcomes (76% accuracy!) 🕹️
+</p>
+
+---
+
+## ☕ Support My Work  
+
+<p align="center">
+  <a href="https://ko-fi.com/yourprofile">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" width="150">
+  </a>
+  
+  <a href="https://www.buymeacoffee.com/yourprofile">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="220">
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+![Contribution Snake](https://raw.githubusercontent.com/Manasaoruganti/Manasaoruganti/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📬 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn" width="150"/>
+  <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150">
   </a>
-  
-  <a href="https://github.com/Manasaoruganti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
-    alt="GitHub" width="150"/>
+
+  <a href="https://medium.com/@yourprofile">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" width="150">
   </a>
-  
+
   <a href="mailto:srimanasa1707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Email" width="150"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="150">
   </a>
 </p>
-
-
-
 
 ---
 
-<h3 align="center">📊 Data-Driven Insights in Action! 🚀</h3>
+## 🎵 Now Playing  
+
+[![Spotify](https://spotify-now-playing-manasaoruganti.vercel.app/api/spotify)](https://open.spotify.com/user/yourprofile)
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manasaoruganti/Manasaoruganti/main/github%20image.webp" width="30%"/>
+  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="200">
+  <br>
+  <em>"Not all treasure is silver and gold, some are hidden in datasets!"</em> 💎
 </p>
+
+[![Visitors](https://komarev.com/ghpvc/?username=manasaoruganti&color=dc143c&style=flat-square)](https://github.com/Manasaoruganti)
