@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFmOGE1MmM2MGNjMjE0MmE5Mzg2NGRhZGI1NzEyNTNhZmEyZTJmNyZjdD1z/VbnUQpnihPSIgIXuZv/giphy.gif" width="60"/>  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjExYzkzZWExNzM0YTY0NzE3YjQyZWRmNzBlMzRiMDliZDliZmIyNCZjdD1z/RbDKaczqWovIugyJmW/giphy.gif" width="60"/>  
   Hey there! I'm Manasa 👋  
 </h1>
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manasaoruganti&theme=radical&show_icons=true&count_private=true" width="47%"/>
@@ -62,6 +62,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/Manasaoruganti"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:srimanasa1707@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="70%"/>
 </p>
 
 ---
@@ -69,5 +74,5 @@
 <h3 align="center">🚀 Data-Driven Insights in Action! 📊</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY3MzlkNzlhZWM3ZTI3NzdlOTkzNzlhNzUzYWIxODI5MTczYjYyMiZjdD1z/xT9IgzoKnwFNmISR8I/giphy.gif" width="80%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcwNjYzOWQ2MzI2MjUzYzE1NTU4OTRlYzZjMzY3N2Y4MWMwNjcxMiZjdD1z/ZFkFBVoT0AALfxg49v/giphy.gif" width="80%"/>
 </p>
