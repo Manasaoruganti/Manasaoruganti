@@ -63,28 +63,25 @@
 ## 📬 Connect With Me  
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/">
-          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin" width="150"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Manasaoruganti">
-          <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github" width="150"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:srimanasa1707@gmail.com">
-          <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" width="150"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Manasaoruganti">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:srimanasa1707@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github.com/Manasaoruganti/Manasaoruganti/blob/main/png.jpg" width="200" alt="Profile Image"/>
 </p>
 
+---
+
+<h3 align="center">📊 Data-Driven Insights in Action! 🚀</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manasaoruganti/Manasaoruganti/main/github%20image.webp" width="60%"/>
+</p>
