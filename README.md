@@ -20,7 +20,7 @@
 📊 **Expertise:** SQL | Python | Power BI | Tableau | Machine Learning | Big Data | R  
 📌 **Currently Learning:**  
 🔹 [Scikit-learn](https://scikit-learn.org/) | 🔹 [XGBoost](https://xgboost.ai/) | 🔹 [AWS Lambda](https://aws.amazon.com/lambda/) | 🔹 [PySpark](https://spark.apache.org/docs/latest/api/python/) | 🔹 [Snowflake](https://www.snowflake.com/) | 🔹 [Apache Kafka](https://kafka.apache.org/) | 🔹 [Apache Hive](https://hive.apache.org/)  
-📈 **Seeking:** Data Analyst / Data Engineer / Big Data roles  
+📈 **Seeking:** Data Analyst / Business Analyst / Big Data roles/ Product Analyst  
 
 ---
 
@@ -79,3 +79,4 @@
 <p align="center">
   <img src="YOUR_IMAGE_URL_HERE" width="80%"/>
 </p>
+
