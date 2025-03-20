@@ -65,18 +65,35 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/manasa-oruganti-37a311216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn" width="160" style="border-radius: 10px; transition: transform 0.3s ease-in-out;" 
-    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    alt="LinkedIn" width="160" style="
+      border-radius: 25px;
+      transition: all 0.3s ease-in-out;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    " 
+    onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0px 0px 20px rgba(0, 123, 255, 0.8)'" 
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 0px 10px rgba(0, 0, 0, 0.2)'" />
   </a>
+
   <a href="https://github.com/Manasaoruganti" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" 
-    alt="GitHub" width="160" style="border-radius: 10px; transition: transform 0.3s ease-in-out;" 
-    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    alt="GitHub" width="160" style="
+      border-radius: 25px;
+      transition: all 0.3s ease-in-out;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    " 
+    onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0px 0px 20px rgba(255, 255, 255, 0.8)'" 
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 0px 10px rgba(0, 0, 0, 0.2)'" />
   </a>
+
   <a href="mailto:srimanasa1707@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Email" width="160" style="border-radius: 10px; transition: transform 0.3s ease-in-out;" 
-    onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/> 
+    alt="Email" width="160" style="
+      border-radius: 25px;
+      transition: all 0.3s ease-in-out;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    " 
+    onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0px 0px 20px rgba(255, 87, 51, 0.8)'" 
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0px 0px 10px rgba(0, 0, 0, 0.2)'" />
   </a>
 </p>
 
