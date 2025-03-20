@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U2NDQxMzJhNzg0ZTljNzc4NTc1NTI3ZjQ5M2M2NWI5NTc1ZDE5NiZjdD1z/3o7abKhOpu0NwenH3O/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U2NDQxMzJhNzg0ZTljNzc4NTc1NTI3ZjQ5M2M2NWI5NTc1ZDE5NiZjdD1z/xT0xevpFeFd8cs5o7m/giphy.gif" width="100"/>
   Hey there! I'm Manasa 👋
 </h1>
 
@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="70%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkxNzM4M2MwZWE1NDM2NjgwNjE4MTFkNzUzMGZjMjRhYjZjNzE1YiZjdD1z/RbDKaczqWovIugyJmW/giphy.gif" width="60%"/>
 </p>
 
 ---
@@ -77,5 +77,5 @@
 <h3 align="center">📊 Data-Driven Insights in Action! 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQzMjgxZmYyNzNiZmNjOGNkZjRjNGQ1OTJjMDZjMjc1NjJmYzUxOCZjdD1z/3o7TKU8RvQuomFfUUU/giphy.gif" width="80%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBhMjEwYzQyNjM5YTY1MjU4OWJhNTBkZTc1Mzc1MjEzNDAzNjRmMyZjdD1z/1ykNQ5ok63RbBqyfrD/giphy.gif" width="80%"/>
 </p>
