@@ -23,10 +23,11 @@
   - **Apache Hive**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh3dGg5cm92YmEyNzlkNWU5aG9iNHhwYmpyOGM4YWJqM2dpNTViZSZjdD1n/5scuT5xw2oAq84z5Yw/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRqMTV2NWdqMzdndjU1NmR2NHB2bTV0cGp4dHkwbHN0dXUxbW83NyZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="250">
 </p>
 
 ---
+
 
 
 
