@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-  Hey there! I'm Manasa 👋
+  Hey there! I'm Manasa 
 </h1>
 
 
