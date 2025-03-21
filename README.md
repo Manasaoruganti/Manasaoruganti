@@ -89,7 +89,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200">
   <br>
-  <em>"Data is the new soil, and I'm here to cultivate insights!"</em> 🌱
+  <em>"Data is the new power-up, and I'm here to level up insights!"</em> 🍄🎮
 </p>
