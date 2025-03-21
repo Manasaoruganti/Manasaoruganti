@@ -1,12 +1,10 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-  Hey there! I'm Manasa 
+  Hey there! I'm Manasa 👋
 </h1>
-
 
 <p align="center">
   🚀 <strong>Data Enthusiast | Data Analyst | Big Data Explorer</strong>  
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </p>
 
 <p align="center">
@@ -14,8 +12,8 @@
 </p>
 
 ---
-## 📊 About Me  
 
+## 📊 About Me  
 - 🎓 **Education:** B.Tech in Computer Science, Bennett University  
 - 🏬 **Experience:** Data Analyst | Business Analyst Intern | Data Engineer Intern  
 - 📊 **Core Skills:** SQL | Python | Power BI | Tableau | Machine Learning | Data Warehousing  
@@ -46,6 +44,8 @@
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
 </p>
 
+---
+
 ## 📈 GitHub Stats  
 
 <p align="center">
@@ -64,7 +64,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200">
-  <br>
+</p>
+
+<p align="center">
   🔍 I can optimize a SQL query faster than you can say "normalization"!<br>
   🧠 Built a real-time traffic analysis system using Kafka streams<br>
   🐝 Created Hive data warehouses for retail analytics projects
@@ -90,6 +92,10 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200">
-  <br>
+</p>
+
+<p align="center">
   <em>"Data is the new power-up, and I'm here to level up insights!"</em> 🍄🎮
 </p>
+
+[![Visitors](https://komarev.com/ghpvc/?username=manasaoruganti&color=dc143c&style=flat)](https://github.com/Manasaoruganti)
