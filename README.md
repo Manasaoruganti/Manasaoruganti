@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/xT0xevpFeFd8cs5o7m/giphy.gif" width="100"/>
-  Hey there! I'm Manasa 👋 
+  Hey there! I'm Manasa 👋
 </h1>
 
 <p align="center">
@@ -22,19 +22,7 @@
   - **Apache Kafka**  
   - **Apache Hive**  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRqMTV2NWdqMzdndjU1NmR2NHB2bTV0cGp4dHkwbHN0dXUxbW83NyZjdD1n/ICOgUNjpvO0PC/giphy.gif" width="250">
-</p>
-
 ---
-
-
-
-
-
-
-
-
 
 ## 🛠️ Tech Stack  
 
@@ -56,7 +44,6 @@
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
 </p>
-
 
 ## 📈 GitHub Stats  
 
