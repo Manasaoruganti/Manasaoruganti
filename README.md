@@ -88,7 +88,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQzMDMwNDNmMmU1MzE3M2E4OGE5ZTUyNzAzOGEyZjMyYjk0Y2E0YyZjdD1n/jpZ8zKDM1z5JrT19hg/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
   <br>
   <em>"Data is the new soil, and I'm here to cultivate insights!"</em> 🌱
 </p>
