@@ -35,22 +35,13 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-</p>
-
----
-
-## 📚 Book Club  
-
-<p align="center">
-  <a href="https://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343">
-    <img src="https://m.media-amazon.com/images/I/71LcXsd6-QL._SY342_.jpg" width="120" alt="Big Data">
-  </a>
-  <a href="https://www.amazon.com/Hadoop-Definitive-Guide-Tom-White/dp/1491901632">
-    <img src="https://m.media-amazon.com/images/I/91YqehZAc3L._SY342_.jpg" width="120" alt="Hadoop">
-  </a>
-  <a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321">
-    <img src="https://m.media-amazon.com/images/I/71ZpwE+3bEL._SY342_.jpg" width="120" alt="Data Intensive Apps">
-  </a>
+  <img src="https://img.shields.io/badge/Google_Data_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Looker-0052CC?style=for-the-badge&logo=looker&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=seaborn&logoColor=white">
 </p>
 
 ---
