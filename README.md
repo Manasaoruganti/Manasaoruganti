@@ -20,12 +20,13 @@
 - 🏬 **Experience:** Data Analyst | Business Analyst Intern | Data Engineer Intern  
 - 📊 **Core Skills:** SQL | Python | Power BI | Tableau | Machine Learning | Data Warehousing  
 - 📌 **Deep Diving Into:**  
-  - <img src="https://img.icons8.com/color/24/apache-kafka.png"/> Apache Kafka  
-  - <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-apache-hive-a-data-warehouse-software-for-querying-and-managing-large-datasets-logo-shadow-tal-revivo.png"/> Apache Hive  
+  - ![Apache Kafka](https://img.icons8.com/color/24/apache-kafka.png) **Apache Kafka**  
+  - ![Apache Hive](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-apache-hive-a-data-warehouse-software-for-querying-and-managing-large-datasets-logo-shadow-tal-revivo.png) **Apache Hive**  
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250">
 
 ---
+
 
 ## 🛠️ Tech Stack  
 
