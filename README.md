@@ -25,30 +25,13 @@
 
 ---
 
+
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60"/> Python
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="60"/> MySQL
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60"/> Pandas
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60"/> NumPy
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/> Power BI
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Tableau_Logo.png" width="60"/> Tableau
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=600&lines=Python+|+MySQL+|+Pandas+|+NumPy+|+Power+BI+|+Tableau;MongoDB+|+Apache+Kafka+|+Apache+Hive+|+Snowflake;Jira+|+R+|+Matplotlib+|+Seaborn" />
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="60"/> MongoDB
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_kafka.svg" width="60"/> Apache Kafka
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_Hive_logo.svg" width="60"/> Apache Hive
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Snowflake_Inc.svg" width="60"/> Snowflake
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Jira_Logo.svg" width="60"/> Jira
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="60"/> R
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/> Matplotlib
-</p>
-
-<p align="center">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120"/> Seaborn
-</p>
 
 
 
