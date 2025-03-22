@@ -29,8 +29,9 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=600&lines=Python+|+MySQL+|+Pandas+|+NumPy+|+Power+BI+|+Tableau;MongoDB+|+Apache+Kafka+|+Apache+Hive+|+Snowflake;Jira+|+R+|+Matplotlib+|+Seaborn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=F76D57&center=true&vCenter=true&repeat=true&width=700&lines=Python🔥;MySQL💾;Pandas🐼;NumPy🔢;Power+BI📊;Tableau📈;MongoDB🍃;Apache+Kafka⚡;Apache+Hive🏠;Snowflake❄️;Jira📌;R📊;Matplotlib📉;Seaborn🌊" />
 </p>
+
 
 
 
