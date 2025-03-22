@@ -38,18 +38,17 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Apache_Software_Foundation_Logo.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_kafka.svg" width="60"/> <!-- Apache Kafka -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hive_logo.svg" width="60"/> <!-- Apache Hive -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Snowflake_Inc.svg/1200px-Snowflake_Inc.svg.png" width="60"/> <!-- Snowflake -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
 </p>
 
 <p align="center">
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Seaborn_logo.svg" width="60"/> <!-- Updated Seaborn logo -->
 </p>
-
-
 
 ## 📈 GitHub Stats  
 
