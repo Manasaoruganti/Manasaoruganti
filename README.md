@@ -28,27 +28,28 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/> <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/> <!-- MySQL -->
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pandas.svg" width="60"/> <!-- Pandas -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60"/> <!-- NumPy -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/> <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Tableau_Logo.png" width="60"/> <!-- Tableau -->
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/kafka.png" width="60"/> <!-- Apache Kafka -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/> <!-- MongoDB -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_kafka.svg" width="60"/> <!-- Apache Kafka -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_Hive_logo.svg" width="60"/> <!-- Apache Hive -->
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/snowflake.png" width="60"/> <!-- Snowflake -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Snowflake_Inc.svg" width="60"/> <!-- Snowflake -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60"/> <!-- Jira -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="60"/> <!-- R -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/> <!-- Matplotlib -->
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.png" width="120"/> <!-- Seaborn logo -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120"/> <!-- Seaborn -->
 </p>
+
 
 
 ## 📈 GitHub Stats  
