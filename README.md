@@ -29,10 +29,11 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="8">
-    <span style="color:#A020F0; font-weight:bold;">🚀 Python | MySQL | Pandas | NumPy | Power BI | Tableau | MongoDB | Apache Kafka | Apache Hive | Snowflake | Jira | R | Matplotlib | Seaborn 🔥</span>
+  <marquee behavior="scroll" direction="left" scrollamount="8" style="color: #a855f7; font-size: 22px; font-weight: bold;">
+    🚀 Python | MySQL | Pandas | NumPy | Power BI | Tableau | MongoDB | Apache Kafka | Apache Hive | Snowflake | Jira | R | Matplotlib | Seaborn 🔥
   </marquee>
 </p>
+
 
 
 
