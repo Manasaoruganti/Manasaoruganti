@@ -28,27 +28,28 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="60"/> Python
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="60"/> MySQL
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/pandas.png" width="60"/> Pandas
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/numpy.png" width="60"/> NumPy
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/powerbi.png" width="60"/> Power BI
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/tableau.png" width="60"/> Tableau
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60"/> Python
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="60"/> MySQL
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="60"/> Pandas
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60"/> NumPy
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/> Power BI
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Tableau_Logo.png" width="60"/> Tableau
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/mongodb.png" width="60"/> MongoDB
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/kafka.png" width="60"/> Apache Kafka
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/hive.png" width="60"/> Apache Hive
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/snowflake.png" width="60"/> Snowflake
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/jira.png" width="60"/> Jira
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/r.png" width="60"/> R
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/matplotlib.png" width="60"/> Matplotlib
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="60"/> MongoDB
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_kafka.svg" width="60"/> Apache Kafka
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Apache_Hive_logo.svg" width="60"/> Apache Hive
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/Snowflake_Inc.svg" width="60"/> Snowflake
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Jira_Logo.svg" width="60"/> Jira
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="60"/> R
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/> Matplotlib
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/databassme/icons/main/seaborn.png" width="120"/> Seaborn
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="120"/> Seaborn
 </p>
+
 
 
 
