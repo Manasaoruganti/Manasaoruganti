@@ -30,9 +30,10 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="8">
-    🚀 Python | MySQL | Pandas | NumPy | Power BI | Tableau | MongoDB | Apache Kafka | Apache Hive | Snowflake | Jira | R | Matplotlib | Seaborn 🔥
+    <span style="color:#A020F0; font-weight:bold;">🚀 Python | MySQL | Pandas | NumPy | Power BI | Tableau | MongoDB | Apache Kafka | Apache Hive | Snowflake | Jira | R | Matplotlib | Seaborn 🔥</span>
   </marquee>
 </p>
+
 
 
 
